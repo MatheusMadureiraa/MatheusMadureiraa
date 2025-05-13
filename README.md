@@ -8,15 +8,14 @@
   <b>Estudante de Engenharia de Software | Desenvolvedor | Apaixonado por tecnologia </b>
 </p>
 
----
+
 
 ### 🚀 Bem-vindo ao meu perfil!
 
 Sou um entusiasta da tecnologia, que acredita que boas soluções vêm de boas perguntas. Gosto de trabalhar em ambientes desafiadores e desenvolver sistemas que realmente fazem a diferença no dia a dia das pessoas. Sempre em busca de aprender algo novo e aplicar com propósito. Sou um entusiasta Blockchain e possuo conhecimento em Cloud Computing também.
 
----
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Tecnologias que estou me desenvolvendo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
@@ -29,7 +28,7 @@ Sou um entusiasta da tecnologia, que acredita que boas soluções vêm de boas p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 </p>
 
----
+
 
 ### 📌 Alguns dos meus projetos
 
