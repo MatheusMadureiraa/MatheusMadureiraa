@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Olá, eu sou o Matheus Madureira 👋</h1>
 
 <p align="center">
