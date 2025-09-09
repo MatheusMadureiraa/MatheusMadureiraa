@@ -33,11 +33,11 @@ Sou um entusiasta da tecnologia, que acredita que boas soluções vêm de boas p
 
 ### 📌 Alguns dos meus projetos
 
+- 📚 [Academia UTFPR]([https://github.com/MatheusMadureiraa/aula-backend](https://github.com/academia-utfpr))
+  Estou criando, em equipe, um software para a academia da universidade (UTFPR)
+
 - 💻 [Sistema Desktop Offline para Tornearia](https://github.com/MatheusMadureiraa/nodejs-tornearia/tree/main)  
   Aplicação criada com Electron, Node.js (MVC), SQLite e frontend nativo, substituindo processos manuais com agilidade e inovação.
-
-- 📚 [E-commerce](https://github.com/MatheusMadureiraa/aula-backend)
-  Estou criando um E-commerce na matéria de back-end, em breve estará disponível.
 
 - 🎥 [Sistema em Java para Condomínios](https://github.com/MatheusMadureiraa/JavaAndPostgreSQL-POO-SmartCondos?tab=readme-ov-file)  
   Projeto completo com user stories, requisitos, diagramas e código utilizando POO em Java e boas práticas.
@@ -53,9 +53,7 @@ Sou um entusiasta da tecnologia, que acredita que boas soluções vêm de boas p
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software na UTFPR.
-- ⚙️ Cri APIs, apps desktop, websites, planos de testes e automações.
 - 📚 Sempre estudando sobre desenvolvimento e boas práticas.
-- 💬 Gosto de compartilhar conhecimento com a comunidade.
 
 ---
 
